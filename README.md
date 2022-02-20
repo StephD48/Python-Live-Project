@@ -8,7 +8,7 @@ things related to various hobbies as well as API and Data Scraping content for t
 Django framework, I also used HTML/CSS and SQlite. During this project I gained experience with Azure DevOps. I participated in a sprint planning meeting,
 daily stand-ups and a sprint restrospective.
 
-In this project I used PyCharm to create my we application about Movie Reviews. I began creating this app by creating base and home templates in a new folder
+In this project I used PyCharm to create my web application about Movie Reviews. I began creating this app by creating base and home templates in a new folder
 using block tags and I also added functions to views that render the home page of the application. I also registered and created URLs for the apps homepage 
 and linked app homepage by an image on the main application homepage. I created a navbar, footer, title and background using HTML,CSS, Bootstrap and Python.
 I then created a functioning create page where the user can add their input that saves to the database through the create template rather than through 
@@ -25,7 +25,8 @@ displayed the information I wanted to display. I created an API template that al
 values back as relevant dictionary objects to the template. I finished the two week project by adding more styling to the application. I used Bootstrap to create cards
 that displayed movie posters on the the homepage of movies that are included in the database. I added buttons, hover effects and shadow effects to the application and 
 background images.
-I have included all code I wrote and images of the pages when they are rendered in the browser.
+
+## I have included all code I wrote and images of the pages when they are rendered in the browser.
 
 # My Movie Reviews Homepage as it renders in the Browser:
 ![MovieReviewHomePage](https://user-images.githubusercontent.com/93282155/154858210-aebaeabf-7ac0-4726-baf1-a4591872de85.png)

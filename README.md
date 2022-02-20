@@ -26,13 +26,15 @@ values back as relevant dictionary objects to the template. I finished the two w
 that displayed movie posters on the the homepage of movies that are included in the database. I added buttons, hover effects and shadow effects to the application and 
 background images.
 
-## I have included all code I wrote and images of the pages when they are rendered in the browser.
+__I have included all code I wrote and images of the pages when they are rendered in the browser.__
 
 # My Movie Reviews Homepage as it renders in the Browser:
 ![MovieReviewHomePage](https://user-images.githubusercontent.com/93282155/154858210-aebaeabf-7ac0-4726-baf1-a4591872de85.png)
 
-# Template created that uses Beautiful Soup data scrapping
+# Template created that uses Beautiful Soup data scrapping:
+![Screenshot (20)](https://user-images.githubusercontent.com/93282155/154864730-ed49ee2f-80ab-4592-ad04-e38c2866475d.png)
 
-# Template displaying form for user input
+# Template displaying form for user input:
 
+![Screenshot (26)](https://user-images.githubusercontent.com/93282155/154864737-d1af4093-b12e-4a49-841c-5d7ce590e6e5.png)
 

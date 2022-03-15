@@ -31,7 +31,7 @@ __I have included all code I wrote and images of the pages when they are rendere
 # My Movie Reviews Homepage as it renders in the Browser:
 ![MovieReviewHomePage](https://user-images.githubusercontent.com/93282155/154858210-aebaeabf-7ac0-4726-baf1-a4591872de85.png)
 
-# Template created that uses Beautiful Soup data scrapping:
+# Template created that uses Beautiful Soup data scraping:
 ![Screenshot (20)](https://user-images.githubusercontent.com/93282155/154864730-ed49ee2f-80ab-4592-ad04-e38c2866475d.png)
 
 # Template displaying form for user input:
